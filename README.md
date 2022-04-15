@@ -11,5 +11,13 @@ Challenge 4 2022# Import the required libraries and dependencies
 ## Commit 2
 
 ## Prepare for the analysis by converting the dataframe of NAVs and prices to daily returns
-## Drop any rows with all missing values
+## Droped any rows with all missing values
 ## Review the first five rows of the daily returns DataFrame.
+
+---
+
+### Reworked the code and additons
+### Ploted the daily return data of the 4 funds and the S&P 500 
+### Calculate and plot the cumulative returns of the 4 fund portfolios and the S&P 500
+### Visualized the cumulative returns using the Pandas plot function
+### 
