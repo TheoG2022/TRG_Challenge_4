@@ -10,9 +10,9 @@ Challenge 4 2022# Import the required libraries and dependencies
 
 ## Commit 2
 
-## Prepare for the analysis by converting the dataframe of NAVs and prices to daily returns
-## Droped any rows with all missing values
-## Review the first five rows of the daily returns DataFrame.
+### Prepare for the analysis by converting the dataframe of NAVs and prices to daily returns
+### Droped any rows with all missing values
+### Review the first five rows of the daily returns DataFrame.
 
 ---
 ## Commit 3
@@ -32,4 +32,10 @@ Challenge 4 2022# Import the required libraries and dependencies
 ---
 ## Commit 5
 
-## Rolling Windows
+### Rolling Windows
+
+___
+
+## Commit 6
+
+### Final Analysis
